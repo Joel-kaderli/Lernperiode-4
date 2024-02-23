@@ -13,9 +13,9 @@ Dictionaries möchte ich geren neu Lernen.
 5. Was wäre ein geeignetes Projekt für diese LP4?
 Ein Einkaufsliste schrieben laste in mit Dictionaris.
 
-## 20.2.2024
+## 23.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heut Nachmittag im Lernatelier habe ich mich entschieden, was für ein Projekt ich in den Nächsten paar Wochen machen will. Ich werde ein Programm machen, das eine Einkaufsliste erstellen kann, durch Benutzereingaben. Ich habe mich dazu entschieden dictionaries dazu zulernen, um meine C#-Kenntnisse zu verbessern.  Dazu habe ich mal versucht, einen ersten kleinen Entwurf zuzumachen(56 Wörter)
 
 ## 27.2.2024
 
