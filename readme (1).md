@@ -4,10 +4,14 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+Ich stehe eingermassen gut da mit meinen Noten. Aber das neue Modul 187 bereitet mir schwirkeiten deshalb werde ich im Lernattlier Ziet dfür einplanen.
+
+EIn Projekt ohne oder nicht einzu eins von einem Tutoriel abschreiben.
+
+Dictionaries möchte ich geren neu Lernen.
+
+5. Was wäre ein geeignetes Projekt für diese LP4?
+Ein Projekt mit Dictionaries..
 
 ## 20.2.2024
 
