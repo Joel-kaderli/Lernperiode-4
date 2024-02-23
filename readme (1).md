@@ -11,7 +11,7 @@ EIn Projekt ohne oder nicht einzu eins von einem Tutoriel abschreiben.
 Dictionaries möchte ich geren neu Lernen.
 
 5. Was wäre ein geeignetes Projekt für diese LP4?
-Ein Projekt mit Dictionaries..
+Ein Einkaufsliste schrieben laste in mit Dictionaris.
 
 ## 20.2.2024
 
@@ -19,15 +19,18 @@ Ein Projekt mit Dictionaries..
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Modul 187 an den Aufträgen weiter arbeiten, die ich noch nicht fertig machen konnte (noch unklar, welche es genau sind)
+- [ ] Modul 187, die Doku zu den Aufträgen machen und abgeben.
+- [ ] Mit dem Projekt beginne ich mit der Einkaufsliste, zuerst werde ich eine Methode erstellen, die es mir die Einkaufsliste erstellen kann und soll überprüfen, ob die Liste leer oder gefühlt ist.
+- [ ] Als 2. Schritt soll das Programm mich fragen, was ich in dieser Einkaufsliste drin haben will und die Menge des Artikels erstellen.
+
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |     -                |    -            |       -         |       ?   |
+| 2               |    -                  |        -        |        -        |      ?    |
+| 3               |      PC läuft                |  Methode zum Anzeigen            |         "Die Einkaufsliste ist leer." wird auf der Konsole ausgegeben.         |          |
+| 4               |     Einkaufsliste ist erstellt                 | Artikel und dann die mengen vom Artikel               |       Dieser Artikel wurde zur Einkaufslisten hinzugefügt 2 davon und wird so ausgegeben.         |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
