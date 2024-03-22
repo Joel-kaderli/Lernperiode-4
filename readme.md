@@ -59,7 +59,13 @@ Heute Nachmittag musste ich für die Modul 187 und 106 Aufträge nacharbeiten, d
 | 4               |     Einkaufsliste ist erstellt                 | Artikel und dann die mengen vom Artikel               |       Dieser Artikel wurde zur Einkaufslisten hinzugefügt 2 davon und wird so ausgegeben. 
 
 
+Heute Nachmittag habe ich im Lernatelier am Modul 106 nach gearbeitet. Ich konnte die Aufträge fast fertig aufholen, mir fehlen noch 2 Aufträge, um aufzuholen.  Und dann habe ich noch an der Einkaufsliste ein wenig weiter gemacht. Aber bei der komme ich nicht so ganz hinterher, eher und habe gemerkt, ich muss weiter üben.
 
+## 5.03.2024
+- [ ] Modul 106, die Letzten beiden aufträge machen um aufzuholen
+- [ ]  Als 2. Schritt soll das Programm mich fragen, was ich in dieser Einkaufsliste drin haben will und die Menge des Artikels erstellen.
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| 4               |     Einkaufsliste ist erstellt                 | Artikel und dann die mengen vom Artikel               |       Dieser Artikel wurde zur Einkaufslisten hinzugefügt 2 davon und wird so ausgegeben. |
 
 ## Reflexion
 
